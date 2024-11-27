@@ -26,7 +26,8 @@
 
 ## 📈 GitHub Stats  
 ![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodesmith404&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodesmith404&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecodesmith404&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodesmith404&layout=compact&theme=radical)
 
 
 ## 📬 Let's Connect  
