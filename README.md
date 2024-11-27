@@ -22,7 +22,11 @@
 - REST APIs, Spring Boot, Dependency Injection (Hilt)  
 
 **Other Tools:**  
-- Version Control (Git), Figma / UI-UX Design, Data Structures & Algorithms  
+- Version Control (Git), Figma / UI-UX Design, Data Structures & Algorithms
+
+## 📈 GitHub Stats  
+![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodesmith404&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodesmith404&layout=compact&theme=radical)  
 
 
 ## 📬 Let's Connect  
